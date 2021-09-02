@@ -1,0 +1,8 @@
+1- Open Backend folder by IDEA.
+2- Run src\main\java\com.example.backend\BackendApplication ( Port:8083 ).
+3- Open frontend folder by IDEA.
+4- Run src\components\Calculator.vue ( npm run serve ).
+5- http://localhost:8080/
+
+- To make many operations, you should click '=' after every time you insert number.
+--Example: 3+5+8+4=20 should be 3 + 5 = 8 + 8 = 16 + 4 = 20
